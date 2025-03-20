@@ -13,3 +13,7 @@ This project consisted of an online system to facilitate the adoption of dogs th
 - An API, developed in php;
 > A API está contida na pasta da "AplicaçãoWeb"
 - A database developed in sql;
+
+## Group Size
+
+- 2 Elements
