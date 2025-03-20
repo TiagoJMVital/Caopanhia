@@ -11,5 +11,5 @@ This project consisted of an online system to facilitate the adoption of dogs th
 - A web application, developed in php using the yii2 framework;
 - A mobile application, developed in Java;
 - An API, developed in php;
-> A API está contida na pasta da WebApp
+> A API está contida na pasta da "AplicaçãoWeb"
 - A database developed in sql;
